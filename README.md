@@ -1,2 +1,2 @@
 # GDSC_BMU
-Google  Developer Student Club Website
+Google  Developer Student Club Website of BML Munjal University
